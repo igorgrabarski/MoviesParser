@@ -1,2 +1,2 @@
 # MoviesParser
-Perser for TMDB webservice
+Parser for TMDB webservice
